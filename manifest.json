@@ -1,8 +1,9 @@
 {
   "name": "VetTrack Pro",
   "short_name": "VetTrack",
-  "description": "Gestionale per allevamenti cinofili — Di Casa Parodi",
-  "start_url": "/",
+  "description": "Gestionale per allevamenti cinofili",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#F4EFE9",
   "theme_color": "#7B4F2A",
